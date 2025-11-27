@@ -98,7 +98,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=🚀+Python+%7C+Django+%7C+React+%7C+MySQL+Developer;🎯+Clean+Code,+Creative+Design,+Continuous+Learning;💡+Code.+Commit.+Conquer." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=🚀+Python+%7C+Django+%7C+React+%7C+MySQL+Developer;🎯+Clean+Code,+Creative+Design,+Continuous+Learning;💡+Code.+Commit.+Conquer." />
 </p>
 
 ---
@@ -107,18 +107,14 @@
 
 ### 💰 *Bank Management System*
 🔹 *Tech Stack:* Python, MySQL  
-🔹 *Description:*  
-Banking app with user & admin modules, real-time transactions, and secure data handling.  
-
+🔹 Banking app with user & admin modules, real-time transactions, and secure data handling.  
 🔹 *GitHub Repo:* **(Add your repo link here)**
 
 ---
 
 ### 🚌 *Wegooo Bus Booking System*
 🔹 *Tech Stack:* Django, React, MySQL, Razorpay  
-🔹 *Description:*  
-Full-stack ticket booking platform with payments & seat selection.  
-
+🔹 Full-stack ticket booking platform with payments & seat selection.  
 🔹 *GitHub Repo:* **(Add your repo link here)**
 
 ---
@@ -133,28 +129,24 @@ Full-stack ticket booking platform with payments & seat selection.
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirupatitharunkumar&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 
 - 💼 LinkedIn (add your link)  
-- 📧 *Email:* (add your email)
+- 📧 Email: (add your email)
 
 ---
 
 ## 👀 Profile Visitors  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tirupatitharunkumar&label=Profile%20Views&color=blue&style=for-the-badge)  
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tirupatitharunkumar/tirupatitharunkumar/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tirupatitharunkumar/tirupatitharunkumar/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/tirupatitharunkumar/tirupatitharunkumar/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>  
 
 ---
 
